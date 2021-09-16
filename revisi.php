@@ -20,13 +20,12 @@
                 <input type="text" name="pengarang">
             </li>
             <li>
-                <label for="penghasilan">Masukkan tahun<li>
+                <label for="penghasilan">Masukkan tahun</label>
                 <input type="text" name="tahun">
             </li>
-            <li>
+     
                 <input type="submit" name="submit">
                 <input type="submit" name="array" value="jadikan Array">
-            </li>
         </ul>
     </form>
     <?php
